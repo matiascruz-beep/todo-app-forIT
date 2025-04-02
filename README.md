@@ -118,6 +118,10 @@ Guardo la tarea exitosamente:
 
 ![4](https://github.com/user-attachments/assets/4e9d6fbf-5cb0-4d95-bf6e-5561fbeea27e)
 
+Postman muestra la tarea editada exitosamente:
+
+![image](https://github.com/user-attachments/assets/2abe994c-0882-45e0-99c4-fd32aa492137)
+
 
 
 
