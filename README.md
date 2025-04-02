@@ -94,15 +94,18 @@ Creo una tarea:
 
 
 Marco la tarea como completada:
+
 ![2](https://github.com/user-attachments/assets/84c0a6fe-5e69-4ad9-aaf4-68749dff115a)
 
 
 
-Edito la tarea
+Edito la tarea:
+
 ![3](https://github.com/user-attachments/assets/60e759ac-6869-4529-840b-583e082437aa)
 
 
-Guardo la tarea exitosamente
+Guardo la tarea exitosamente:
+
 ![4](https://github.com/user-attachments/assets/4e9d6fbf-5cb0-4d95-bf6e-5561fbeea27e)
 
 
