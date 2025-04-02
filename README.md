@@ -85,3 +85,22 @@ Si deseas contribuir, ¡siéntete libre de hacer un fork y enviar un pull reques
 
 Esto es Educambio, un proyecto que pretende ser parte de la solución. ¡Muchas gracias! 🎯
 
+
+SCREENSHOTS DE LA APP FUNCIONANDO:
+
+
+![1](https://github.com/user-attachments/assets/689996d4-3568-4268-bc66-a9461e92cf81)
+
+
+![2](https://github.com/user-attachments/assets/84c0a6fe-5e69-4ad9-aaf4-68749dff115a)
+
+
+![3](https://github.com/user-attachments/assets/60e759ac-6869-4529-840b-583e082437aa)
+
+
+![4](https://github.com/user-attachments/assets/4e9d6fbf-5cb0-4d95-bf6e-5561fbeea27e)
+
+
+
+
+
