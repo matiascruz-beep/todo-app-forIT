@@ -93,10 +93,20 @@ Creo una tarea:
 ![1](https://github.com/user-attachments/assets/689996d4-3568-4268-bc66-a9461e92cf81)
 
 
+Postman con solicitud GET muestra la tarea creada:
+
+![image](https://github.com/user-attachments/assets/69edc008-4f9b-4166-954a-b3aace84e7ec)
+
+
+
 Marco la tarea como completada:
 
 ![2](https://github.com/user-attachments/assets/84c0a6fe-5e69-4ad9-aaf4-68749dff115a)
 
+
+Postman indica la tarea completada satisfactoriamente:
+
+![image](https://github.com/user-attachments/assets/ff2e6aa5-8fef-43a6-994a-b4a72372baae)
 
 
 Edito la tarea:
@@ -107,6 +117,9 @@ Edito la tarea:
 Guardo la tarea exitosamente:
 
 ![4](https://github.com/user-attachments/assets/4e9d6fbf-5cb0-4d95-bf6e-5561fbeea27e)
+
+
+
 
 
 
